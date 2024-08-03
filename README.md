@@ -33,4 +33,52 @@ Welcome to **JRPS IMS**! This application is designed to demonstrate [specific f
   2. Restore nuget package
   3. Build the Solution: Press Ctrl + Shift + B or navigate to Build > Build Solution.
   4. Run the Application: Press F5 or navigate to Debug > Start Debugging.
+
+## Features
+
+- Login Page
+![image1](documanetation/images/P1.PNG)
+
+- Dashboard Interface
+![image2](documanetation/images/P2.PNG)
+
+- Data Management
+![image3](documanetation/images/P3.PNG)
+
+- Account Management
+![image4](documanetation/images/P4.PNG)
+
+- Backup Functionality
+![image5](documanetation/images/P5.PNG)
+
+- Activity Log
+![image6](documanetation/images/P6.PNG)
+
+
+## Troubleshooting
+
+If you encounter any issues while building or running the application, consider the following steps:
+
+1. **Check for missing dependencies:** Ensure all required packages and references are installed.
+2. **Rebuild the solution:** Try rebuilding the solution to resolve any transient build errors.
+3. **Consult the documentation:** Review any provided documentation or comments in the code for guidance.
+
+## Learn VB.NET and Winform Desktop App Development
+
+If you're new to VB.NET programming, here are some resources to help you get started:
+
+1. Microsoft VB.NET Documentation  
+   - https://docs.microsoft.com/en-us/dotnet/visual-basic/
+
+2. Info Tech Skill VB.NET Tutorial for Beginners Playlist  
+   - https://www.youtube.com/playlist?list=PLwbVskGxnnVQl62CbOB_7jOabda3kPlAx
+
+## Contact Me
+
+Feel free to reach out if you have any questions or want to connect:
+
+1. **Facebook:** Jr Garingarao
+    - https://www.facebook.com/nigel.garingarao
+3. **Telegram:** Jr Garingarao
+    - https://telegram.me/Jr_Garingarao
   
