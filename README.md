@@ -1,6 +1,6 @@
 # JR Printing Shop Inventory Management App 🎉
 
-Welcome to **JRPS IMS**! This application is designed to demonstrate [specific functionality] using the .NET framework's Windows Forms.
+Welcome to **JRPS IMS**! This application is designed to digitally manage inventory using the .NET framework's Windows Forms.
 
 - **Developed:** November 2023
 - **Purpose:** A sample project for learning and exploring VB.NET WinForms development
@@ -8,7 +8,7 @@ Welcome to **JRPS IMS**! This application is designed to demonstrate [specific f
 
 ## Getting Started
 
-
+You may download and install the [pre-release](https://github.com/NjayGaringarao/JRPS_IMS/releases) or build the project by yourself by following the instructions:
 
 ### 1. Prerequisites
 
