@@ -37,22 +37,22 @@ Welcome to **JRPS IMS**! This application is designed to demonstrate [specific f
 ## Features
 
 - Login Page
-![image1](documanetation/images/P1.PNG)
+![image1](documentation/images/P1.PNG)
 
 - Dashboard Interface
-![image2](documanetation/images/P2.PNG)
+![image2](documentation/images/P2.PNG)
 
 - Data Management
-![image3](documanetation/images/P3.PNG)
+![image3](documentation/images/P3.PNG)
 
 - Account Management
-![image4](documanetation/images/P4.PNG)
+![image4](documentation/images/P4.PNG)
 
 - Backup Functionality
-![image5](documanetation/images/P5.PNG)
+![image5](documentation/images/P5.PNG)
 
 - Activity Log
-![image6](documanetation/images/P6.PNG)
+![image6](documentation/images/P6.PNG)
 
 
 ## Troubleshooting
