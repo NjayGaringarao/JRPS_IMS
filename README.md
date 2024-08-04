@@ -3,7 +3,7 @@
 Welcome to **JRPS IMS**! This application is designed to digitally manage inventory using the .NET framework's Windows Forms.
 
 - **Developed:** November 2023
-- **Purpose:** A sample project for learning and exploring VB.NET WinForms development
+- **Purpose:** A project for the partial fulfillment in the subject CC102 Computer Programming 2
 - **Platform:** Windows Forms Application (GUI-based)
 
 ## Getting Started
